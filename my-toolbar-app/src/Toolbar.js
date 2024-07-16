@@ -2,6 +2,7 @@
 
 import React, {useState} from 'react';
 import RateMovieButton from './rateMovieButton';
+import './Toolbar.css';
 
 const Toolbar = () => {
   const movies = ['Twister', 'Marvels Avengers', 'The Dark Knight'];
